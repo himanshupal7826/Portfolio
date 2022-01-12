@@ -1,0 +1,25 @@
+.h{
+    background-color:darkgrey;
+    display: flex;
+    direction: rtl;
+    padding-right:600px; 
+
+   
+}
+
+.h p{
+    font-size: 50px ;
+    font-family: cursive;
+    color:darkolivegreen;
+     
+    line-height:1.1em;
+    text-align:center;
+}
+.h p.h5{
+    font-family:sans-serif;
+    color:darkslateblue;
+    font-size: 20px ;
+    line-height:1.2em;
+    text-align:bottom;
+}
+ 
